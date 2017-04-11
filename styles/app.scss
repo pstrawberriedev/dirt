@@ -1,1 +1,16 @@
-@import 'util/swag';
+// Global
+@import 'util/mixins';
+@import 'util/reset';
+@import 'util/classes';
+@import 'vendor/bs3grid';
+
+// App
+@import 'app/base';
+@import 'app/fonts';
+
+// Components
+@import 'app/components/nav';
+@import 'app/components/footer';
+
+// Themes
+@import 'app/themes/theme-default';

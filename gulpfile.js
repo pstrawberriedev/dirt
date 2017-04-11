@@ -7,7 +7,7 @@ var cleanCSS = require('gulp-clean-css')
 
 //* Options
 var sassMaster = './styles/app.scss'
-var sassFiles = './styles/**/*.scss'
+var sassFiles = './styles/**/**/*.scss'
 var cssDest = './styles/dist'
 
 //* Task: Compile and minify SASS

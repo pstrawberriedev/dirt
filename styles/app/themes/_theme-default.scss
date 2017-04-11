@@ -1,0 +1,24 @@
+/*
+  Default Theme
+*/
+
+// Default Colors
+$white: #fff;
+$black: #000;
+
+// Main Colors
+$default-light: #fafafa;
+$default-dark: #1a1a1a;
+$default-gray: #aaa;
+
+// UI Colors
+
+
+// BEGIN THE THEME
+body.theme-default {
+  background:$default-light;
+  color:$default-dark;
+
+  //
+
+}

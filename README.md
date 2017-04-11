@@ -7,9 +7,10 @@ A dirty boilerplate for prototyping an HTML5 Site with SASS styles and plain ol'
 ``npm start`` -or- ``gulp``
 
 ### Included
-- An HTML file
-- A SASS file with an import
-- A JS file with a console.log
+- An HTML skeleton
+- SASS setup (reset, mixins, bootstrap grid)
+- jQuery
+- Micons
 
 ### Not Included
 - Everything else
